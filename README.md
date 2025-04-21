@@ -19,4 +19,4 @@ I'm a Data Analyst with over 4 years of experience in supply chain analytics, cu
 - 🔗 LinkedIn: [Jyoti Roy](https://www.linkedin.com/in/jyoti-roy-datascience/)
 - 📄 Resume: [Available on LinkedIn]
 
-Currently seeking data science and analytics roles. Open to collaborations and feedback! 🚀
+Currently seeking data science and analytics roles. Open to collaborations and feedback! 
