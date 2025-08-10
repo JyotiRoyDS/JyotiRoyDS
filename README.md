@@ -5,8 +5,8 @@ Full-stack developer with over 4 years of experience in data analytics, machine 
 ## Featured Projects
 - 🗣️ **Hate Speech Detection**: Built an NLP model using RoBERTa, achieving **84.93% accuracy** on the SemEval 2019 dataset.
 - 🌍 **Forest Footprint Explorer**: Created an interactive Tableau dashboard visualizing global tree cover loss (2001–2023).
-- ⏳ **Newsify**: Developed an interactive NLP analytics dashboard
-
+- ⏳ **Newsify**: Developed an interactive NLP analytics dashboard.
+- **Predictive Trend Analysis for Marketing**: Utilized Power BI to conduct time-series analysis on a large dataset of customer transactions to identify patterns, predict trends,and visualize user behavior.
 ## Skills
 - **Languages & Tools**: Python, SQL, Java, Power BI, Tableau, Simul8, Git, Jira, Bitbucket, Microsoft Azure, .NET
 - **Domains**: NLP, Data Visualization, Supply Chain Analytics, Statistical Modeling
