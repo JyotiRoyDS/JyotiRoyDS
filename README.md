@@ -1,6 +1,6 @@
 # Hi, I'm Jyoti Roy! 👋
 
-Full-stack developer with over 4 years of experience in data analytics, machine learning, and software development within supply chain and customer-focused domains at the Renault Nissan Technology Business Center of India. Proficient in building and deploying end-to-end machine learning models, leveraging **Python**, **SQL**, **.NET** , **Tableau** and **PowerBI** to deliver actionable customer insights. Currently pursuing an MSc in Data Science and Analytics at Cardiff University, eager to apply expertise in customer analytics, statistical modeling, and data storytelling in a dynamic Fintech environment. Adept at collaborating with cross-functional teams and communicating complex solutions to technical and non-technical stakeholders.
+Full-stack developer with over 4 years of experience in data analytics, machine learning, and software development within supply chain and customer-focused domains at the Renault Nissan Technology Business Center of India. Proficient in building and deploying end-to-end machine learning models, leveraging **Python**, **SQL**, **Tableau** and **PowerBI** to deliver actionable customer insights. Currently pursuing an MSc in Data Science and Analytics at Cardiff University, eager to apply expertise in customer analytics, statistical modeling, and data storytelling in a dynamic Fintech environment. Adept at collaborating with cross-functional teams and communicating complex solutions to technical and non-technical stakeholders.
 
 ## Featured Projects
 - 🗣️ **Hate Speech Detection**: Built an NLP model using RoBERTa, achieving **84.93% accuracy** on the SemEval 2019 dataset.
@@ -17,7 +17,7 @@ Full-stack developer with over 4 years of experience in data analytics, machine 
 - 🌟 **Best Team Award 2024**: Led Carflow AWS Migration at Renault Nissan.
 
 ## Connect
-- 📩 Email: [jyotirov0304@gmail.com](mailto:jyotirov0304@gmail.com)
+- 📩 Email: [jyotirov030498@gmail.com](mailto:jyotirov030498@gmail.com)
 - 🔗 LinkedIn: [Jyoti Roy](https://www.linkedin.com/in/jyoti-roy-datascience/)
 - 📄 Resume: [Available on LinkedIn]
 
